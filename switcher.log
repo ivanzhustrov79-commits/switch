@@ -1,0 +1,1340 @@
+﻿14:51:14  Starting...
+14:51:15  Compiled OK.
+14:51:18  FocusChange: buffer cleared, trackedRu=False
+14:51:19  Dict: loaded EN=370105 RU=1525424 words in 3983ms
+14:51:21  Accum: key='L' buf=[L] len=1
+14:51:21  Accum: key='j' buf=[Lj] len=2
+14:51:22  Accum: key='h' buf=[Ljh] len=3
+14:51:22  Accum: key='s' buf=[Ljhs] len=4
+14:51:23  Accum: key='q' buf=[Ljhsq] len=5
+14:51:23  Detect [Ljhsq] s0=0.00 [Дорый] s1=0.75
+14:51:23    s0=0 CONVERT
+14:51:23  DoConvert [Ljhsq]->[Дорый]
+14:51:23  Send 22/22 del=5 bnd=' '
+14:51:23  Done.
+14:51:23  Accum: key='д' buf=[д] len=1
+14:51:24  Accum: key='е' buf=[де] len=2
+14:51:24  Accum: key='н' buf=[ден] len=3
+14:51:24  Accum: key='ь' buf=[день] len=4
+14:51:24  Accum: key='.' buf=[день.] len=5
+14:51:35  FocusChange: buffer cleared, trackedRu=True
+14:51:36  Accum: key='с' buf=[с] len=1
+14:51:42  FocusChange: buffer cleared, trackedRu=True
+14:51:43  Accum: key='м' buf=[м] len=1
+14:52:19  Accum: key='т' buf=[мт] len=2
+14:52:20  Accum: key='т' buf=[мт] len=2
+14:52:20  Accum: key='щ' buf=[мтщ] len=3
+14:52:22  Accum: key='n' buf=[мn] len=2
+14:52:22  Accum: key='o' buf=[мno] len=3
+14:52:22  Detect [мno] s0=0.50 [мтщ] s1=0.00
+14:52:22    s1=0 reject
+14:52:23  Accum: key='s' buf=[s] len=1
+14:52:24  Accum: key='o' buf=[so] len=2
+14:52:24  Accum: key='t' buf=[sot] len=3
+14:52:24  Accum: key='t' buf=[sott] len=4
+14:52:25  Accum: key='r' buf=[sor] len=3
+14:52:26  Accum: key='y' buf=[sory] len=4
+14:52:26  Accum: key='y' buf=[soryy] len=5
+14:52:26  Detect [soryy] s0=0.75 [ыщкнн] s1=0.25
+14:52:26    no conversion
+14:52:28  Accum: key='r' buf=[r] len=1
+14:52:28  Accum: key='y' buf=[ry] len=2
+14:52:28  Dict: [ry]->[кн] real in ru вЂ” CONVERT
+14:52:28  DoConvert [ry]->[кн]
+14:52:28  Send 10/10 del=2 bnd=' '
+14:52:28  Done.
+14:52:29  Accum: key='е' buf=[е] len=1
+14:52:29  Accum: key='р' buf=[ер] len=2
+14:52:29  Accum: key='ш' buf=[ерш] len=3
+14:52:29  Accum: key='ы' buf=[ершы] len=4
+14:52:29  Dict: [ершы]->[this] real in en вЂ” CONVERT
+14:52:29  DoConvert [ершы]->[this]
+14:52:29  Send 18/18 del=4 bnd=' '
+14:52:29  Done.
+14:52:29  Accum: key='i' buf=[i] len=1
+14:52:29  Accum: key='s' buf=[is] len=2
+14:52:30  Dict: [is] real in en вЂ” no convert
+14:52:30  Accum: key='n' buf=[n] len=1
+14:52:30  Accum: key='o' buf=[no] len=2
+14:52:30  Accum: key='t' buf=[not] len=3
+14:52:31  Accum: key='r' buf=[r] len=1
+14:52:33  Accum: key='t' buf=[t] len=1
+14:52:33  Accum: key='r' buf=[tr] len=2
+14:52:33  Accum: key='u' buf=[tru] len=3
+14:52:34  Accum: key='e' buf=[true] len=4
+14:52:35  Dict: [true] real in en вЂ” no convert
+14:52:35  Accum: key='i' buf=[i] len=1
+14:52:36  Accum: key='p' buf=[p] len=1
+14:52:36  Accum: key='r' buf=[pr] len=2
+14:52:37  Accum: key='e' buf=[pre] len=3
+14:52:37  Accum: key='s' buf=[pres] len=4
+14:52:37  Accum: key='s' buf=[press] len=5
+14:52:37  Accum: key='e' buf=[presse] len=6
+14:52:38  Accum: key='d' buf=[pressed] len=7
+14:52:38  Dict: [pressed] real in en вЂ” no convert
+14:52:43  Accum: key='Д' buf=[Д] len=1
+14:52:43  Accum: key='о' buf=[До] len=2
+14:52:43  Accum: key='б' buf=[Доб] len=3
+14:52:44  Accum: key='р' buf=[Добр] len=4
+14:52:44  Accum: key='ы' buf=[Добры] len=5
+14:52:44  Accum: key='й' buf=[Добрый] len=6
+14:52:48  Accum: key='l' buf=[l] len=1
+14:52:49  Accum: key='t' buf=[lt] len=2
+14:52:53  Accum: key='c' buf=[c] len=1
+14:52:53  Accum: key='o' buf=[co] len=2
+14:52:54  Accum: key='m' buf=[com] len=3
+14:52:54  Accum: key='p' buf=[comp] len=4
+14:52:54  Accum: key='l' buf=[compl] len=5
+14:52:55  Accum: key='e' buf=[comple] len=6
+14:52:55  Accum: key='t' buf=[complet] len=7
+14:52:55  Accum: key='e' buf=[complete] len=8
+14:52:55  Accum: key='l' buf=[completel] len=9
+14:52:56  Accum: key='l' buf=[completell] len=10
+14:52:56  Accum: key='y' buf=[completelly] len=11
+14:52:56  Detect [completelly] s0=1.00 [сщьздуеуддн] s1=0.20
+14:52:56    no conversion
+14:52:56  Accum: key='a' buf=[a] len=1
+14:52:57  Accum: key='l' buf=[al] len=2
+14:52:57  Accum: key='l' buf=[all] len=3
+14:52:57  Dict: [all] real in en вЂ” no convert
+14:52:58  Accum: key='l' buf=[l] len=1
+14:52:58  Accum: key='e' buf=[le] len=2
+14:52:59  Accum: key='t' buf=[let] len=3
+14:52:59  Accum: key='t' buf=[lett] len=4
+14:52:59  Accum: key='e' buf=[lette] len=5
+14:52:59  Accum: key='r' buf=[letter] len=6
+14:52:59  Accum: key='s' buf=[letters] len=7
+14:53:00  Dict: [letters] real in en вЂ” no convert
+14:53:01  Accum: key='c' buf=[c] len=1
+14:53:01  Accum: key='a' buf=[ca] len=2
+14:53:01  Accum: key='n' buf=[can] len=3
+14:53:01  Dict: [can] real in en вЂ” no convert
+14:53:02  Accum: key='t' buf=[t] len=1
+14:53:02  Accum: key='o' buf=[to] len=2
+14:53:02  Accum: key='y' buf=[toy] len=3
+14:53:03  Dict: [toy] real in en вЂ” no convert
+14:53:06  Accum: key='y' buf=[y] len=1
+14:53:06  Accum: key='o' buf=[yo] len=2
+14:53:06  Accum: key='u' buf=[you] len=3
+14:53:06  Dict: [you] real in en вЂ” no convert
+14:53:06  Accum: key='a' buf=[a] len=1
+14:53:07  Accum: key='d' buf=[ad] len=2
+14:53:07  Accum: key='d' buf=[add] len=3
+14:53:07  Dict: [add] real in en вЂ” no convert
+14:53:09  Accum: key='w' buf=[w] len=1
+14:53:10  Accum: key='h' buf=[wh] len=2
+14:53:10  Accum: key='a' buf=[wha] len=3
+14:53:11  Accum: key='t' buf=[what] len=4
+14:53:11  Dict: [what] real in en вЂ” no convert
+14:53:12  Accum: key='l' buf=[l] len=1
+14:53:12  Accum: key='e' buf=[le] len=2
+14:53:12  Accum: key='t' buf=[let] len=3
+14:53:12  Accum: key='t' buf=[lett] len=4
+14:53:12  Accum: key='e' buf=[lette] len=5
+14:53:13  Accum: key='r' buf=[letter] len=6
+14:53:13  Accum: key='s' buf=[letters] len=7
+14:53:13  Dict: [letters] real in en вЂ” no convert
+14:53:14  Accum: key='h' buf=[h] len=1
+14:53:14  Accum: key='a' buf=[ha] len=2
+14:53:14  Accum: key='v' buf=[hav] len=3
+14:53:14  Accum: key='e' buf=[have] len=4
+14:53:14  Dict: [have] real in en вЂ” no convert
+14:53:15  Accum: key='b' buf=[b] len=1
+14:53:15  Accum: key='e' buf=[be] len=2
+14:53:15  Accum: key='e' buf=[bee] len=3
+14:53:15  Accum: key='n' buf=[been] len=4
+14:53:15  Dict: [been] real in en вЂ” no convert
+14:53:16  Accum: key='p' buf=[p] len=1
+14:53:16  Accum: key='r' buf=[pr] len=2
+14:53:16  Accum: key='e' buf=[pre] len=3
+14:53:16  Accum: key='s' buf=[pres] len=4
+14:53:16  Accum: key='s' buf=[press] len=5
+14:53:17  Accum: key='e' buf=[presse] len=6
+14:53:17  Accum: key='d' buf=[pressed] len=7
+14:53:17  Dict: [pressed] real in en вЂ” no convert
+14:53:20  Accum: key='t' buf=[t] len=1
+14:53:20  Accum: key='o' buf=[to] len=2
+14:53:20  Dict: [to] both real (src=2147483647 dst=2147483647) вЂ” no convert
+14:53:21  Accum: key='t' buf=[t] len=1
+14:53:21  Accum: key='h' buf=[th] len=2
+14:53:21  Accum: key='e' buf=[the] len=3
+14:53:22  Accum: key='l' buf=[l] len=1
+14:53:23  Accum: key='o' buf=[lo] len=2
+14:53:23  Accum: key='g' buf=[log] len=3
+14:53:25  Dict: [log] real in en вЂ” no convert
+14:53:29  Accum: key='m' buf=[m] len=1
+14:53:29  Accum: key='a' buf=[ma] len=2
+14:53:29  Accum: key='y' buf=[may] len=3
+14:53:29  Accum: key='b' buf=[mayb] len=4
+14:53:30  Accum: key='e' buf=[maybe] len=5
+14:53:30  Dict: [maybe] real in en вЂ” no convert
+14:53:30  Accum: key='i' buf=[i] len=1
+14:53:30  Accum: key='d' buf=[d] len=1
+14:53:31  Accum: key='i' buf=[di] len=2
+14:53:31  Accum: key='d' buf=[did] len=3
+14:53:31  Dict: [did] real in en вЂ” no convert
+14:53:31  Accum: key='i' buf=[i] len=1
+14:53:32  Accum: key='t' buf=[it] len=2
+14:53:32  Dict: [it] both real (src=2147483647 dst=2147483647) вЂ” no convert
+14:53:33  Accum: key='t' buf=[t] len=1
+14:53:34  Accum: key='o' buf=[to] len=2
+14:53:34  Accum: key='o' buf=[too] len=3
+14:53:34  Dict: [too] real in en вЂ” no convert
+14:53:34  Accum: key='f' buf=[f] len=1
+14:53:34  Accum: key='a' buf=[fa] len=2
+14:53:35  Accum: key='s' buf=[fas] len=3
+14:53:35  Accum: key='t' buf=[fast] len=4
+14:53:35  Dict: [fast] real in en вЂ” no convert
+14:53:35  Accum: key='t' buf=[t] len=1
+14:53:36  Accum: key='h' buf=[th] len=2
+14:53:36  Accum: key='o' buf=[tho] len=3
+14:53:36  Accum: key='u' buf=[thou] len=4
+14:53:39  Accum: key='f' buf=[f] len=1
+14:53:39  Accum: key='o' buf=[fo] len=2
+14:53:39  Accum: key='r' buf=[for] len=3
+14:53:39  Dict: [for] real in en вЂ” no convert
+14:53:41  Accum: key='w' buf=[w] len=1
+14:53:41  Accum: key='i' buf=[wi] len=2
+14:53:42  Accum: key='n' buf=[win] len=3
+14:53:42  Accum: key='d' buf=[wind] len=4
+14:53:42  Accum: key='o' buf=[windo] len=5
+14:53:42  Accum: key='w' buf=[window] len=6
+14:53:42  Accum: key='s' buf=[windows] len=7
+14:53:43  Dict: [windows] real in en вЂ” no convert
+14:53:43  Accum: key='t' buf=[t] len=1
+14:53:43  Accum: key='h' buf=[th] len=2
+14:53:44  Accum: key='o' buf=[tho] len=3
+14:53:44  Accum: key='u' buf=[thou] len=4
+14:53:45  Accum: key='g' buf=[thoug] len=5
+14:53:45  Accum: key='h' buf=[though] len=6
+14:53:58  Accum: key='ы' buf=[thougы] len=6
+14:53:58  Accum: key='щ' buf=[thougыщ] len=7
+14:53:58  Accum: key='к' buf=[thougыщк] len=8
+14:53:58  Accum: key='к' buf=[thougыщкк] len=9
+14:53:59  Accum: key='н' buf=[thougыщккн] len=10
+14:54:04  Accum: key='ю' buf=[ю] len=1
+14:54:05  Accum: key='.' buf=[.] len=1
+14:54:07  Accum: key='ц' buf=[ц] len=1
+14:54:07  Accum: key='р' buf=[цр] len=2
+14:54:07  Accum: key='е' buf=[цре] len=3
+14:54:07  Detect [цре] s0=0.50 [wht] s1=1.00
+14:54:07    ratio=2.0 CONVERT
+14:54:07  DoConvert [цре]->[wht]
+14:54:07  Send 14/14 del=3 bnd=' '
+14:54:07  Done.
+14:54:09  Accum: key='y' buf=[y] len=1
+14:54:11  Accum: key='ы' buf=[ы] len=1
+14:54:11  Accum: key='щ' buf=[ыщ] len=2
+14:54:12  Accum: key='к' buf=[ыщк] len=3
+14:54:12  Accum: key='к' buf=[ыщкк] len=4
+14:54:12  Accum: key='н' buf=[ыщккн] len=5
+14:54:12  Dict: [ыщккн]->[sorry] real in en вЂ” CONVERT
+14:54:12  DoConvert [ыщккн]->[sorry]
+14:54:12  Send 22/22 del=5 bnd=' '
+14:54:12  Done.
+14:54:24  Accum: key='ы' buf=[ы] len=1
+14:54:24  Accum: key='щ' buf=[ыщ] len=2
+14:54:24  Accum: key='к' buf=[ыщк] len=3
+14:54:24  Accum: key='к' buf=[ыщкк] len=4
+14:54:25  Accum: key='н' buf=[ыщккн] len=5
+14:54:25  Dict: [ыщккн]->[sorry] real in en вЂ” CONVERT
+14:54:25  DoConvert [ыщккн]->[sorry]
+14:54:25  Send 22/22 del=5 bnd=' '
+14:54:25  Done.
+14:55:02  FocusChange: buffer cleared, trackedRu=True
+14:55:02  Accum: key='ф' buf=[ф] len=1
+14:56:23  Starting...
+14:56:23  Compiled OK.
+14:56:28  Dict: loaded EN=370105 RU=1525424 words in 4828ms
+14:56:30.130  RAW KEYDOWN vk=0x0D
+14:56:30  FocusChange: buffer cleared, trackedRu=False
+14:56:30.236  RAW KEYUP vk=0x0D
+14:56:30.676  RAW KEYDOWN vk=0xA1
+14:56:30.891  RAW KEYDOWN vk=0x4C (L)
+14:56:30.892  Accum: key='L' buf=[L] len=1
+14:56:31.004  RAW KEYUP vk=0xA1
+14:56:31.005  RAW KEYUP vk=0x4C (L)
+14:56:31.283  RAW KEYDOWN vk=0x4A (J)
+14:56:31.284  Accum: key='j' buf=[Lj] len=2
+14:56:31.372  RAW KEYUP vk=0x4A (J)
+14:56:31.668  RAW KEYDOWN vk=0xBC
+14:56:31.747  RAW KEYUP vk=0xBC
+14:56:32.003  RAW KEYDOWN vk=0x48 (H)
+14:56:32.004  Accum: key='h' buf=[Ljh] len=3
+14:56:32.083  RAW KEYUP vk=0x48 (H)
+14:56:32.116  RAW KEYDOWN vk=0x53 (S)
+14:56:32.117  Accum: key='s' buf=[Ljhs] len=4
+14:56:32.195  RAW KEYUP vk=0x53 (S)
+14:56:32.355  RAW KEYDOWN vk=0x51 (Q)
+14:56:32.356  Accum: key='q' buf=[Ljhsq] len=5
+14:56:32.460  RAW KEYUP vk=0x51 (Q)
+14:56:32.627  RAW KEYDOWN vk=0x20 ( )
+14:56:32  Detect [Ljhsq] s0=0.00 [Дорый] s1=0.75
+14:56:32    s0=0 CONVERT
+14:56:32  DoConvert [Ljhsq]->[Дорый]
+14:56:32.683  RAW KEYDOWN vk=0x08 [INJECTED]
+14:56:32.684  RAW KEYUP vk=0x08 [INJECTED]
+14:56:32.685  RAW KEYDOWN vk=0x08 [INJECTED]
+14:56:32.685  RAW KEYUP vk=0x08 [INJECTED]
+14:56:32.686  RAW KEYDOWN vk=0x08 [INJECTED]
+14:56:32.687  RAW KEYUP vk=0x08 [INJECTED]
+14:56:32.688  RAW KEYDOWN vk=0x08 [INJECTED]
+14:56:32.689  RAW KEYUP vk=0x08 [INJECTED]
+14:56:32.690  RAW KEYDOWN vk=0x08 [INJECTED]
+14:56:32.690  RAW KEYUP vk=0x08 [INJECTED]
+14:56:32.692  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:56:32.693  RAW KEYUP vk=0xE7 [INJECTED]
+14:56:32.695  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:56:32.699  RAW KEYUP vk=0xE7 [INJECTED]
+14:56:32.700  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:56:32.701  RAW KEYUP vk=0xE7 [INJECTED]
+14:56:32.703  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:56:32.704  RAW KEYUP vk=0xE7 [INJECTED]
+14:56:32.704  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:56:32.706  RAW KEYUP vk=0xE7 [INJECTED]
+14:56:32.707  RAW KEYDOWN vk=0x20 ( ) [INJECTED]
+14:56:32.708  RAW KEYUP vk=0x20 ( ) [INJECTED]
+14:56:32  Send 22/22 del=5 bnd=' '
+14:56:32  Done.
+14:56:32.739  RAW KEYUP vk=0x20 ( )
+14:56:33.220  RAW KEYDOWN vk=0x4C (L)
+14:56:33.220  Accum: key='д' buf=[д] len=1
+14:56:33.300  RAW KEYUP vk=0x4C (L)
+14:56:33.308  RAW KEYDOWN vk=0x54 (T)
+14:56:33.308  Accum: key='е' buf=[де] len=2
+14:56:33.380  RAW KEYUP vk=0x54 (T)
+14:56:33.483  RAW KEYDOWN vk=0x59 (Y)
+14:56:33.484  Accum: key='н' buf=[ден] len=3
+14:56:33.572  RAW KEYUP vk=0x59 (Y)
+14:56:33.804  RAW KEYDOWN vk=0x4D (M)
+14:56:33.805  Accum: key='ь' buf=[день] len=4
+14:56:33.924  RAW KEYUP vk=0x4D (M)
+14:56:33.980  RAW KEYDOWN vk=0xA1
+14:56:34.163  RAW KEYDOWN vk=0xBF
+14:56:34.165  Accum: key='.' buf=[день.] len=5
+14:56:34.259  RAW KEYUP vk=0xBF
+14:56:34.323  RAW KEYUP vk=0xA1
+14:56:34.836  RAW KEYDOWN vk=0x0D
+14:56:34.932  RAW KEYUP vk=0x0D
+14:56:44.396  RAW KEYDOWN vk=0xA2
+14:56:44  FocusChange: buffer cleared, trackedRu=True
+14:56:44.524  RAW KEYDOWN vk=0x41 (A)
+14:56:44.525  Accum: key='ф' buf=[ф] len=1
+14:56:44.668  RAW KEYUP vk=0x41 (A)
+14:56:44.684  RAW KEYUP vk=0xA2
+14:56:45.212  RAW KEYDOWN vk=0xA2
+14:56:45.365  RAW KEYDOWN vk=0x43 (C)
+14:56:45.365  Accum: key='с' buf=[фс] len=2
+14:56:45.500  RAW KEYUP vk=0x43 (C)
+14:56:45.516  RAW KEYUP vk=0xA2
+14:56:50.621  RAW KEYDOWN vk=0xA2
+14:56:50  FocusChange: buffer cleared, trackedRu=True
+14:56:51.085  RAW KEYDOWN vk=0x56 (V)
+14:56:51.085  Accum: key='м' buf=[м] len=1
+14:56:51.205  RAW KEYUP vk=0xA2
+14:56:51.221  RAW KEYUP vk=0x56 (V)
+14:57:44.128  RAW SYSKEYDOWN vk=0xA4
+14:57:44  FocusChange: buffer cleared, trackedRu=True
+14:57:44.152  RAW SYSKEYDOWN vk=0xA0
+14:57:44.281  RAW KEYUP vk=0xA4
+14:57:44.285  RAW KEYUP vk=0xA2
+14:57:44.304  RAW KEYUP vk=0xA0
+14:57:46.136  RAW KEYDOWN vk=0xA1
+14:57:46.409  RAW KEYDOWN vk=0x4C (L)
+14:57:46.410  Accum: key='L' buf=[L] len=1
+14:57:46.560  RAW KEYUP vk=0x4C (L)
+14:57:46.568  RAW KEYUP vk=0xA1
+14:57:46.793  RAW KEYDOWN vk=0x4A (J)
+14:57:46.794  Accum: key='j' buf=[Lj] len=2
+14:57:46.905  RAW KEYUP vk=0x4A (J)
+14:57:47.185  RAW KEYDOWN vk=0xBC
+14:57:47.281  RAW KEYUP vk=0xBC
+14:57:47.673  RAW KEYDOWN vk=0x48 (H)
+14:57:47.673  Accum: key='h' buf=[Ljh] len=3
+14:57:47.753  RAW KEYUP vk=0x48 (H)
+14:57:47.840  RAW KEYDOWN vk=0x53 (S)
+14:57:47.841  Accum: key='s' buf=[Ljhs] len=4
+14:57:47.928  RAW KEYUP vk=0x53 (S)
+14:57:48.065  RAW KEYDOWN vk=0x51 (Q)
+14:57:48.066  Accum: key='q' buf=[Ljhsq] len=5
+14:57:48.161  RAW KEYUP vk=0x51 (Q)
+14:57:48.225  RAW KEYDOWN vk=0x20 ( )
+14:57:48  Detect [Ljhsq] s0=0.00 [Дорый] s1=0.75
+14:57:48    s0=0 CONVERT
+14:57:48  DoConvert [Ljhsq]->[Дорый]
+14:57:48.263  RAW KEYDOWN vk=0x08 [INJECTED]
+14:57:48.265  RAW KEYUP vk=0x08 [INJECTED]
+14:57:48.266  RAW KEYDOWN vk=0x08 [INJECTED]
+14:57:48.267  RAW KEYUP vk=0x08 [INJECTED]
+14:57:48.267  RAW KEYDOWN vk=0x08 [INJECTED]
+14:57:48.269  RAW KEYUP vk=0x08 [INJECTED]
+14:57:48.270  RAW KEYDOWN vk=0x08 [INJECTED]
+14:57:48.271  RAW KEYUP vk=0x08 [INJECTED]
+14:57:48.272  RAW KEYDOWN vk=0x08 [INJECTED]
+14:57:48.273  RAW KEYUP vk=0x08 [INJECTED]
+14:57:48.430  RAW KEYUP vk=0x20 ( )
+14:57:48.431  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:57:48.432  RAW KEYUP vk=0xE7 [INJECTED]
+14:57:48.433  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:57:48.433  RAW KEYUP vk=0xE7 [INJECTED]
+14:57:48.440  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:57:48.441  RAW KEYUP vk=0xE7 [INJECTED]
+14:57:48.442  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:57:48.444  RAW KEYUP vk=0xE7 [INJECTED]
+14:57:48.445  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:57:48.446  RAW KEYUP vk=0xE7 [INJECTED]
+14:57:48.447  RAW KEYDOWN vk=0x20 ( ) [INJECTED]
+14:57:48.449  RAW KEYUP vk=0x20 ( ) [INJECTED]
+14:57:48  Send 22/22 del=5 bnd=' '
+14:57:48  Done.
+14:58:20.155  RAW KEYDOWN vk=0xA2
+14:58:20  FocusChange: buffer cleared, trackedRu=True
+14:58:20.331  RAW KEYDOWN vk=0x43 (C)
+14:58:20.332  Accum: key='с' buf=[с] len=1
+14:58:20.484  RAW KEYUP vk=0x43 (C)
+14:58:20.507  RAW KEYUP vk=0xA2
+14:58:38.493  RAW KEYDOWN vk=0x54 (T)
+14:58:38  FocusChange: buffer cleared, trackedRu=True
+14:58:38.494  Accum: key='е' buf=[е] len=1
+14:58:38.564  RAW KEYUP vk=0x54 (T)
+14:58:38.756  RAW KEYDOWN vk=0x48 (H)
+14:58:38.757  Accum: key='р' buf=[ер] len=2
+14:58:38.852  RAW KEYDOWN vk=0x49 (I)
+14:58:38.853  Accum: key='ш' buf=[ерш] len=3
+14:58:38.940  RAW KEYUP vk=0x48 (H)
+14:58:39.013  RAW KEYUP vk=0x49 (I)
+14:58:39.053  RAW KEYDOWN vk=0x53 (S)
+14:58:39.054  Accum: key='ы' buf=[ершы] len=4
+14:58:39.140  RAW KEYDOWN vk=0x20 ( )
+14:58:39  Dict: [ершы]->[this] real in en вЂ” CONVERT
+14:58:39  DoConvert [ершы]->[this]
+14:58:39.148  RAW KEYUP vk=0x53 (S)
+14:58:39.188  RAW KEYDOWN vk=0x08 [INJECTED]
+14:58:39.189  RAW KEYUP vk=0x08 [INJECTED]
+14:58:39.190  RAW KEYDOWN vk=0x08 [INJECTED]
+14:58:39.191  RAW KEYUP vk=0x08 [INJECTED]
+14:58:39.193  RAW KEYDOWN vk=0x08 [INJECTED]
+14:58:39.194  RAW KEYUP vk=0x08 [INJECTED]
+14:58:39.195  RAW KEYDOWN vk=0x08 [INJECTED]
+14:58:39.197  RAW KEYUP vk=0x08 [INJECTED]
+14:58:39.198  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:58:39.199  RAW KEYUP vk=0xE7 [INJECTED]
+14:58:39.201  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:58:39.203  RAW KEYUP vk=0xE7 [INJECTED]
+14:58:39.204  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:58:39.205  RAW KEYUP vk=0xE7 [INJECTED]
+14:58:39.207  RAW KEYDOWN vk=0xE7 [INJECTED]
+14:58:39.208  RAW KEYUP vk=0xE7 [INJECTED]
+14:58:39.209  RAW KEYDOWN vk=0x20 ( ) [INJECTED]
+14:58:39.211  RAW KEYUP vk=0x20 ( ) [INJECTED]
+14:58:39  Send 18/18 del=4 bnd=' '
+14:58:39  Done.
+14:58:39.253  RAW KEYUP vk=0xA2
+14:58:39.276  RAW KEYUP vk=0x20 ( )
+14:58:39.821  RAW KEYDOWN vk=0x54 (T)
+14:58:39.821  Accum: key='t' buf=[t] len=1
+14:58:39.917  RAW KEYUP vk=0x54 (T)
+14:58:39.972  RAW KEYDOWN vk=0x49 (I)
+14:58:39.973  Accum: key='i' buf=[ti] len=2
+14:58:40.069  RAW KEYUP vk=0x49 (I)
+14:58:40.229  RAW KEYDOWN vk=0x4D (M)
+14:58:40.230  Accum: key='m' buf=[tim] len=3
+14:58:40.301  RAW KEYUP vk=0x4D (M)
+14:58:40.341  RAW KEYDOWN vk=0x45 (E)
+14:58:40.341  Accum: key='e' buf=[time] len=4
+14:58:40.437  RAW KEYDOWN vk=0x20 ( )
+14:58:40  Dict: [time] real in en вЂ” no convert
+14:58:40.445  RAW KEYUP vk=0x45 (E)
+14:58:40.548  RAW KEYUP vk=0x20 ( )
+14:58:40.764  RAW KEYDOWN vk=0x49 (I)
+14:58:40.765  Accum: key='i' buf=[i] len=1
+14:58:40.861  RAW KEYDOWN vk=0x20 ( )
+14:58:40.901  RAW KEYUP vk=0x49 (I)
+14:58:40.989  RAW KEYUP vk=0x20 ( )
+14:58:41.469  RAW KEYDOWN vk=0x48 (H)
+14:58:41.470  Accum: key='h' buf=[h] len=1
+14:58:41.557  RAW KEYUP vk=0x48 (H)
+14:58:41.652  RAW KEYDOWN vk=0x49 (I)
+14:58:41.653  Accum: key='i' buf=[hi] len=2
+14:58:41.757  RAW KEYUP vk=0x49 (I)
+14:58:41.957  RAW KEYDOWN vk=0x54 (T)
+14:58:41.958  Accum: key='t' buf=[hit] len=3
+14:58:42.029  RAW KEYUP vk=0x54 (T)
+14:58:42.085  RAW KEYDOWN vk=0x20 ( )
+14:58:42  Dict: [hit] real in en вЂ” no convert
+14:58:42.245  RAW KEYUP vk=0x20 ( )
+14:58:44.693  RAW KEYDOWN vk=0xBC
+14:58:44.877  RAW KEYUP vk=0xBC
+14:58:47.541  RAW KEYDOWN vk=0x20 ( )
+14:58:47.725  RAW KEYUP vk=0x20 ( )
+14:58:48.877  RAW KEYDOWN vk=0x48 (H)
+14:58:48.877  Accum: key='h' buf=[h] len=1
+14:58:49.013  RAW KEYUP vk=0x48 (H)
+14:58:49.029  RAW KEYDOWN vk=0x54 (T)
+14:58:49.030  Accum: key='t' buf=[ht] len=2
+14:58:49.109  RAW KEYUP vk=0x54 (T)
+14:58:49.509  RAW KEYDOWN vk=0x46 (F)
+14:58:49.510  Accum: key='f' buf=[htf] len=3
+14:58:49.598  RAW KEYUP vk=0x46 (F)
+14:58:49.821  RAW KEYDOWN vk=0x4B (K)
+14:58:49.822  Accum: key='k' buf=[htfk] len=4
+14:58:49.870  RAW KEYUP vk=0x4B (K)
+14:58:49.957  RAW KEYDOWN vk=0x4B (K)
+14:58:49.958  Accum: key='k' buf=[htfkk] len=5
+14:58:50.069  RAW KEYUP vk=0x4B (K)
+14:58:51.374  RAW KEYDOWN vk=0x08
+14:58:51.469  RAW KEYUP vk=0x08
+14:58:51.598  RAW KEYDOWN vk=0x08
+14:58:51.653  RAW KEYUP vk=0x08
+14:58:51.789  RAW KEYDOWN vk=0x08
+14:58:51.853  RAW KEYUP vk=0x08
+14:58:51.997  RAW KEYDOWN vk=0x08
+14:58:52.110  RAW KEYUP vk=0x08
+14:58:52.406  RAW KEYDOWN vk=0x08
+14:58:52.509  RAW KEYUP vk=0x08
+14:58:53.949  RAW KEYDOWN vk=0x52 (R)
+14:58:53.950  Accum: key='r' buf=[r] len=1
+14:58:54.014  RAW KEYUP vk=0x52 (R)
+14:58:54.141  RAW KEYDOWN vk=0x45 (E)
+14:58:54.142  Accum: key='e' buf=[re] len=2
+14:58:54.205  RAW KEYUP vk=0x45 (E)
+14:58:54.390  RAW KEYDOWN vk=0x41 (A)
+14:58:54.390  Accum: key='a' buf=[rea] len=3
+14:58:54.485  RAW KEYUP vk=0x41 (A)
+14:58:54.613  RAW KEYDOWN vk=0x4C (L)
+14:58:54.614  Accum: key='l' buf=[real] len=4
+14:58:54.669  RAW KEYUP vk=0x4C (L)
+14:58:54.782  RAW KEYDOWN vk=0x4C (L)
+14:58:54.783  Accum: key='l' buf=[reall] len=5
+14:58:54.862  RAW KEYUP vk=0x4C (L)
+14:58:54.997  RAW KEYDOWN vk=0x59 (Y)
+14:58:54.998  Accum: key='y' buf=[really] len=6
+14:58:55.077  RAW KEYUP vk=0x59 (Y)
+14:58:55.085  RAW KEYDOWN vk=0x20 ( )
+14:58:55  Dict: [really] real in en вЂ” no convert
+14:58:55.214  RAW KEYUP vk=0x20 ( )
+14:58:56.077  RAW KEYDOWN vk=0x58 (X)
+14:58:56.078  Accum: key='x' buf=[x] len=1
+14:58:56.150  RAW KEYUP vk=0x58 (X)
+14:58:56.446  RAW KEYDOWN vk=0x08
+14:58:56.541  RAW KEYUP vk=0x08
+14:58:56.605  RAW KEYDOWN vk=0x53 (S)
+14:58:56.606  Accum: key='s' buf=[s] len=1
+14:58:56.710  RAW KEYUP vk=0x53 (S)
+14:58:57.013  RAW KEYDOWN vk=0x54 (T)
+14:58:57.014  Accum: key='t' buf=[st] len=2
+14:58:57.086  RAW KEYUP vk=0x54 (T)
+14:58:57.206  RAW KEYDOWN vk=0x52 (R)
+14:58:57.206  Accum: key='r' buf=[str] len=3
+14:58:57.301  RAW KEYUP vk=0x52 (R)
+14:58:57.342  RAW KEYDOWN vk=0x4F (O)
+14:58:57.343  Accum: key='o' buf=[stro] len=4
+14:58:57.437  RAW KEYUP vk=0x4F (O)
+14:58:57.702  RAW KEYDOWN vk=0x4E (N)
+14:58:57.703  Accum: key='n' buf=[stron] len=5
+14:58:57.774  RAW KEYUP vk=0x4E (N)
+14:58:58.053  RAW KEYDOWN vk=0x47 (G)
+14:58:58.054  Accum: key='g' buf=[strong] len=6
+14:58:58.141  RAW KEYUP vk=0x47 (G)
+14:58:59.214  RAW KEYDOWN vk=0xBE
+14:58:59.334  RAW KEYUP vk=0xBE
+14:58:59.718  RAW KEYDOWN vk=0x20 ( )
+14:58:59  Dict: [strong] real in en вЂ” no convert
+14:58:59.862  RAW KEYUP vk=0x20 ( )
+14:59:00.622  RAW KEYDOWN vk=0x4E (N)
+14:59:00.623  Accum: key='n' buf=[n] len=1
+14:59:00.758  RAW KEYUP vk=0x4E (N)
+14:59:00.942  RAW KEYDOWN vk=0x4F (O)
+14:59:00.942  Accum: key='o' buf=[no] len=2
+14:59:01.038  RAW KEYUP vk=0x4F (O)
+14:59:01.174  RAW KEYDOWN vk=0x20 ( )
+14:59:01  Dict: [no] both real (src=2147483647 dst=2147483647) вЂ” no convert
+14:59:01.318  RAW KEYUP vk=0x20 ( )
+14:59:01.334  RAW KEYDOWN vk=0x54 (T)
+14:59:01.335  Accum: key='t' buf=[t] len=1
+14:59:01.398  RAW KEYUP vk=0x54 (T)
+14:59:01.517  RAW KEYDOWN vk=0x52 (R)
+14:59:01.518  Accum: key='r' buf=[tr] len=2
+14:59:01.582  RAW KEYUP vk=0x52 (R)
+14:59:02.238  RAW KEYDOWN vk=0x41 (A)
+14:59:02.239  Accum: key='a' buf=[tra] len=3
+14:59:02.318  RAW KEYUP vk=0x41 (A)
+14:59:02.510  RAW KEYDOWN vk=0x43 (C)
+14:59:02.511  Accum: key='c' buf=[trac] len=4
+14:59:02.606  RAW KEYUP vk=0x43 (C)
+14:59:02.814  RAW KEYDOWN vk=0x45 (E)
+14:59:02.815  Accum: key='e' buf=[trace] len=5
+14:59:02.911  RAW KEYUP vk=0x45 (E)
+14:59:03.007  RAW KEYDOWN vk=0xA1
+14:59:03.198  RAW KEYDOWN vk=0xBF
+14:59:03.310  RAW KEYUP vk=0xA1
+14:59:03.326  RAW KEYUP vk=0xBF
+14:59:03.766  RAW KEYDOWN vk=0x20 ( )
+14:59:03  Dict: [trace] real in en вЂ” no convert
+14:59:03.886  RAW KEYUP vk=0x20 ( )
+14:59:04.807  RAW KEYDOWN vk=0x4D (M)
+14:59:04.808  Accum: key='m' buf=[m] len=1
+14:59:04.918  RAW KEYUP vk=0x4D (M)
+14:59:04.935  RAW KEYDOWN vk=0x41 (A)
+14:59:04.935  Accum: key='a' buf=[ma] len=2
+14:59:05.022  RAW KEYUP vk=0x41 (A)
+14:59:05.271  RAW KEYDOWN vk=0x59 (Y)
+14:59:05.271  Accum: key='y' buf=[may] len=3
+14:59:05.366  RAW KEYUP vk=0x59 (Y)
+14:59:05.511  RAW KEYDOWN vk=0x42 (B)
+14:59:05.512  Accum: key='b' buf=[mayb] len=4
+14:59:05.598  RAW KEYUP vk=0x42 (B)
+14:59:05.630  RAW KEYDOWN vk=0x45 (E)
+14:59:05.631  Accum: key='e' buf=[maybe] len=5
+14:59:05.726  RAW KEYUP vk=0x45 (E)
+14:59:05.727  RAW KEYDOWN vk=0x20 ( )
+14:59:05  Dict: [maybe] real in en вЂ” no convert
+14:59:05.854  RAW KEYUP vk=0x20 ( )
+14:59:06.414  RAW KEYDOWN vk=0x42 (B)
+14:59:06.415  Accum: key='b' buf=[b] len=1
+14:59:06.511  RAW KEYUP vk=0x42 (B)
+14:59:06.576  RAW KEYDOWN vk=0x45 (E)
+14:59:06.578  Accum: key='e' buf=[be] len=2
+14:59:06.671  RAW KEYUP vk=0x45 (E)
+14:59:07.022  RAW KEYDOWN vk=0x43 (C)
+14:59:07.023  Accum: key='c' buf=[bec] len=3
+14:59:07.110  RAW KEYUP vk=0x43 (C)
+14:59:07.494  RAW KEYDOWN vk=0x41 (A)
+14:59:07.495  Accum: key='a' buf=[beca] len=4
+14:59:07.566  RAW KEYUP vk=0x41 (A)
+14:59:08.159  RAW KEYDOWN vk=0x55 (U)
+14:59:08.160  Accum: key='u' buf=[becau] len=5
+14:59:08.254  RAW KEYUP vk=0x55 (U)
+14:59:08.375  RAW KEYDOWN vk=0x53 (S)
+14:59:08.375  Accum: key='s' buf=[becaus] len=6
+14:59:08.454  RAW KEYUP vk=0x53 (S)
+14:59:08.574  RAW KEYDOWN vk=0x45 (E)
+14:59:08.575  Accum: key='e' buf=[because] len=7
+14:59:08.671  RAW KEYUP vk=0x45 (E)
+14:59:08.695  RAW KEYDOWN vk=0x20 ( )
+14:59:08  Dict: [because] real in en вЂ” no convert
+14:59:08.823  RAW KEYUP vk=0x20 ( )
+14:59:09.278  RAW KEYDOWN vk=0x49 (I)
+14:59:09.279  Accum: key='i' buf=[i] len=1
+14:59:09.383  RAW KEYUP vk=0x49 (I)
+14:59:09.543  RAW KEYDOWN vk=0x54 (T)
+14:59:09.543  Accum: key='t' buf=[it] len=2
+14:59:09.623  RAW KEYUP vk=0x54 (T)
+14:59:09.624  RAW KEYDOWN vk=0x20 ( )
+14:59:09  Dict: [it] both real (src=2147483647 dst=2147483647) вЂ” no convert
+14:59:09.742  RAW KEYUP vk=0x20 ( )
+14:59:09.862  RAW KEYDOWN vk=0x49 (I)
+14:59:09.863  Accum: key='i' buf=[i] len=1
+14:59:09.958  RAW KEYUP vk=0x49 (I)
+14:59:09.999  RAW KEYDOWN vk=0x53 (S)
+14:59:09.999  Accum: key='s' buf=[is] len=2
+14:59:10.087  RAW KEYUP vk=0x53 (S)
+14:59:10.102  RAW KEYDOWN vk=0x20 ( )
+14:59:10  Dict: [is] real in en вЂ” no convert
+14:59:10.199  RAW KEYUP vk=0x20 ( )
+14:59:12.831  RAW KEYDOWN vk=0x43 (C)
+14:59:12.832  Accum: key='c' buf=[c] len=1
+14:59:12.926  RAW KEYUP vk=0x43 (C)
+14:59:13.031  RAW KEYDOWN vk=0x4F (O)
+14:59:13.032  Accum: key='o' buf=[co] len=2
+14:59:13.119  RAW KEYUP vk=0x4F (O)
+14:59:13.350  RAW KEYDOWN vk=0x4D (M)
+14:59:13.351  Accum: key='m' buf=[com] len=3
+14:59:13.407  RAW KEYUP vk=0x4D (M)
+14:59:13.503  RAW KEYDOWN vk=0x4D (M)
+14:59:13.504  Accum: key='m' buf=[comm] len=4
+14:59:13.599  RAW KEYUP vk=0x4D (M)
+14:59:13.967  RAW KEYDOWN vk=0x41 (A)
+14:59:13.968  Accum: key='a' buf=[comma] len=5
+14:59:14.079  RAW KEYUP vk=0x41 (A)
+14:59:14.142  RAW KEYDOWN vk=0x20 ( )
+14:59:14  Dict: [comma] real in en вЂ” no convert
+14:59:14.343  RAW KEYUP vk=0x20 ( )
+14:59:17.823  RAW KEYDOWN vk=0x4C (L)
+14:59:17.825  Accum: key='l' buf=[l] len=1
+14:59:17.951  RAW KEYUP vk=0x4C (L)
+14:59:18.023  RAW KEYDOWN vk=0x45 (E)
+14:59:18.024  Accum: key='e' buf=[le] len=2
+14:59:18.119  RAW KEYUP vk=0x45 (E)
+14:59:18.351  RAW KEYDOWN vk=0x54 (T)
+14:59:18.351  Accum: key='t' buf=[let] len=3
+14:59:18.407  RAW KEYUP vk=0x54 (T)
+14:59:18.487  RAW KEYDOWN vk=0x54 (T)
+14:59:18.487  Accum: key='t' buf=[lett] len=4
+14:59:18.575  RAW KEYUP vk=0x54 (T)
+14:59:18.752  RAW KEYDOWN vk=0x45 (E)
+14:59:18.753  Accum: key='e' buf=[lette] len=5
+14:59:18.839  RAW KEYUP vk=0x45 (E)
+14:59:18.960  RAW KEYDOWN vk=0x52 (R)
+14:59:18.960  Accum: key='r' buf=[letter] len=6
+14:59:19.040  RAW KEYUP vk=0x52 (R)
+14:59:19.127  RAW KEYDOWN vk=0x20 ( )
+14:59:19  Dict: [letter] real in en вЂ” no convert
+14:59:19.255  RAW KEYUP vk=0x20 ( )
+14:59:19.511  RAW KEYDOWN vk=0x53 (S)
+14:59:19.512  Accum: key='s' buf=[s] len=1
+14:59:19.607  RAW KEYUP vk=0x53 (S)
+14:59:19.870  RAW KEYDOWN vk=0x59 (Y)
+14:59:19.872  Accum: key='y' buf=[sy] len=2
+14:59:19.952  RAW KEYDOWN vk=0x53 (S)
+14:59:19.952  Accum: key='s' buf=[sys] len=3
+14:59:19.959  RAW KEYUP vk=0x59 (Y)
+14:59:20.055  RAW KEYUP vk=0x53 (S)
+14:59:20.263  RAW KEYDOWN vk=0x54 (T)
+14:59:20.264  Accum: key='t' buf=[syst] len=4
+14:59:20.335  RAW KEYUP vk=0x54 (T)
+14:59:20.487  RAW KEYDOWN vk=0x45 (E)
+14:59:20.487  Accum: key='e' buf=[syste] len=5
+14:59:20.583  RAW KEYUP vk=0x45 (E)
+14:59:20.599  RAW KEYDOWN vk=0x4D (M)
+14:59:20.600  Accum: key='m' buf=[system] len=6
+14:59:20.679  RAW KEYDOWN vk=0x20 ( )
+14:59:20  Dict: [system] real in en вЂ” no convert
+14:59:20.734  RAW KEYUP vk=0x4D (M)
+14:59:20.807  RAW KEYUP vk=0x20 ( )
+14:59:21.311  RAW KEYDOWN vk=0x49 (I)
+14:59:21.312  Accum: key='i' buf=[i] len=1
+14:59:21.408  RAW KEYUP vk=0x49 (I)
+14:59:21.703  RAW KEYDOWN vk=0x47 (G)
+14:59:21.704  Accum: key='g' buf=[ig] len=2
+14:59:21.800  RAW KEYUP vk=0x47 (G)
+14:59:22.296  RAW KEYDOWN vk=0x4E (N)
+14:59:22.297  Accum: key='n' buf=[ign] len=3
+14:59:22.520  RAW KEYUP vk=0x4E (N)
+14:59:22.543  RAW KEYDOWN vk=0x4F (O)
+14:59:22.544  Accum: key='o' buf=[igno] len=4
+14:59:22.648  RAW KEYUP vk=0x4F (O)
+14:59:22.871  RAW KEYDOWN vk=0x52 (R)
+14:59:22.873  Accum: key='r' buf=[ignor] len=5
+14:59:22.919  RAW KEYDOWN vk=0x45 (E)
+14:59:22.920  Accum: key='e' buf=[ignore] len=6
+14:59:22.951  RAW KEYUP vk=0x52 (R)
+14:59:23.047  RAW KEYUP vk=0x45 (E)
+14:59:23.224  RAW KEYDOWN vk=0x44 (D)
+14:59:23.225  Accum: key='d' buf=[ignored] len=7
+14:59:23.328  RAW KEYUP vk=0x44 (D)
+14:59:23.367  RAW KEYDOWN vk=0x20 ( )
+14:59:23  Dict: [ignored] real in en вЂ” no convert
+14:59:23.496  RAW KEYUP vk=0x20 ( )
+14:59:23.831  RAW KEYDOWN vk=0x55 (U)
+14:59:23.832  Accum: key='u' buf=[u] len=1
+14:59:23.912  RAW KEYUP vk=0x55 (U)
+14:59:24.039  RAW KEYDOWN vk=0x52 (R)
+14:59:24.040  Accum: key='r' buf=[ur] len=2
+14:59:24.152  RAW KEYUP vk=0x52 (R)
+14:59:24.432  RAW KEYDOWN vk=0x08
+14:59:24.535  RAW KEYUP vk=0x08
+14:59:24.567  RAW KEYDOWN vk=0x54 (T)
+14:59:24.568  Accum: key='t' buf=[ut] len=2
+14:59:24.696  RAW KEYUP vk=0x54 (T)
+14:59:24.815  RAW KEYDOWN vk=0xA1
+14:59:24.960  RAW KEYDOWN vk=0xBF
+14:59:25.112  RAW KEYUP vk=0xA1
+14:59:25.120  RAW KEYUP vk=0xBF
+14:59:28.849  RAW KEYDOWN vk=0x20 ( )
+14:59:28  Dict: [ut] both real (src=2147483647 dst=2147483647) вЂ” no convert
+14:59:28.959  RAW KEYUP vk=0x20 ( )
+14:59:29.015  RAW KEYDOWN vk=0xA2
+14:59:29.184  RAW KEYDOWN vk=0x56 (V)
+14:59:29.184  Accum: key='v' buf=[v] len=1
+14:59:29.256  RAW KEYUP vk=0x56 (V)
+14:59:29.320  RAW KEYUP vk=0xA2
+15:01:44.233  RAW KEYDOWN vk=0x1B
+15:01:44  FocusChange: buffer cleared, trackedRu=False
+15:01:44.434  RAW KEYUP vk=0x1B
+15:02:00.427  RAW KEYDOWN vk=0xA2
+15:02:00.563  RAW KEYDOWN vk=0x5A (Z)
+15:02:00.564  Accum: key='z' buf=[z] len=1
+15:02:00.690  RAW KEYUP vk=0xA2
+15:02:00.693  RAW KEYUP vk=0x5A (Z)
+15:02:01.842  RAW KEYDOWN vk=0xA2
+15:02:01.995  RAW KEYDOWN vk=0x5A (Z)
+15:02:01.996  Accum: key='z' buf=[zz] len=2
+15:02:02.130  RAW KEYUP vk=0x5A (Z)
+15:02:02.187  RAW KEYUP vk=0xA2
+15:02:22.324  RAW KEYDOWN vk=0x1B
+15:02:22.468  RAW KEYUP vk=0x1B
+15:02:32.596  RAW KEYDOWN vk=0x63 (c)
+15:02:32.685  RAW KEYDOWN vk=0x60 (`)
+15:02:32.765  RAW KEYUP vk=0x63 (c)
+15:02:32.828  RAW KEYUP vk=0x60 (`)
+15:03:03.254  RAW KEYDOWN vk=0x28 (()
+15:03:03.327  RAW KEYUP vk=0x28 (()
+15:03:08.407  RAW KEYDOWN vk=0x28 (()
+15:03:08.480  RAW KEYUP vk=0x28 (()
+15:03:20.057  RAW KEYDOWN vk=0x62 (b)
+15:03:20.128  RAW KEYDOWN vk=0x60 (`)
+15:03:20.208  RAW KEYUP vk=0x62 (b)
+15:03:20.280  RAW KEYUP vk=0x60 (`)
+15:03:24.945  RAW KEYDOWN vk=0x62 (b)
+15:03:25.081  RAW KEYUP vk=0x62 (b)
+15:03:25.256  RAW KEYDOWN vk=0x62 (b)
+15:03:25.360  RAW KEYUP vk=0x62 (b)
+15:03:34.649  RAW KEYDOWN vk=0x28 (()
+15:03:34.761  RAW KEYUP vk=0x28 (()
+15:03:40.754  RAW KEYDOWN vk=0x26 (&)
+15:03:40.857  RAW KEYUP vk=0x26 (&)
+15:03:41.826  RAW KEYDOWN vk=0x62 (b)
+15:03:41.898  RAW KEYDOWN vk=0x61 (a)
+15:03:41.970  RAW KEYUP vk=0x62 (b)
+15:03:42.026  RAW KEYUP vk=0x61 (a)
+15:03:49.667  RAW KEYDOWN vk=0x28 (()
+15:03:49.754  RAW KEYUP vk=0x28 (()
+15:04:04.587  RAW KEYDOWN vk=0x64 (d)
+15:04:04.700  RAW KEYDOWN vk=0x65 (e)
+15:04:04.876  RAW KEYUP vk=0x64 (d)
+15:04:04.877  RAW KEYUP vk=0x65 (e)
+15:04:04.878  RAW KEYDOWN vk=0x60 (`)
+15:04:04.980  RAW KEYUP vk=0x60 (`)
+15:04:09.148  RAW KEYDOWN vk=0x64 (d)
+15:04:09.244  RAW KEYUP vk=0x64 (d)
+15:04:09.380  RAW KEYDOWN vk=0x62 (b)
+15:04:09.499  RAW KEYDOWN vk=0x60 (`)
+15:04:09.548  RAW KEYUP vk=0x62 (b)
+15:04:09.636  RAW KEYUP vk=0x60 (`)
+15:04:13.340  RAW KEYDOWN vk=0x28 (()
+15:04:13.436  RAW KEYUP vk=0x28 (()
+15:04:26.317  RAW KEYDOWN vk=0x28 (()
+15:04:26.453  RAW KEYUP vk=0x28 (()
+15:05:01.479  RAW KEYDOWN vk=0x61 (a)
+15:05:01.591  RAW KEYUP vk=0x61 (a)
+15:05:01.704  RAW KEYDOWN vk=0x60 (`)
+15:05:01.816  RAW KEYUP vk=0x60 (`)
+15:05:01.903  RAW KEYDOWN vk=0x60 (`)
+15:05:02.015  RAW KEYUP vk=0x60 (`)
+15:05:08.824  RAW KEYDOWN vk=0x61 (a)
+15:05:08.936  RAW KEYUP vk=0x61 (a)
+15:05:09.048  RAW KEYDOWN vk=0x60 (`)
+15:05:09.136  RAW KEYUP vk=0x60 (`)
+15:05:09.240  RAW KEYDOWN vk=0x60 (`)
+15:05:09.344  RAW KEYUP vk=0x60 (`)
+15:05:26.681  RAW KEYDOWN vk=0x69 (i)
+15:05:26.753  RAW KEYDOWN vk=0x60 (`)
+15:05:26.817  RAW KEYUP vk=0x69 (i)
+15:05:26.897  RAW KEYUP vk=0x60 (`)
+15:05:29.609  RAW KEYDOWN vk=0xA2
+15:05:29.761  RAW KEYDOWN vk=0x53 (S)
+15:05:29.762  Accum: key='s' buf=[s] len=1
+15:05:29.833  RAW KEYUP vk=0xA2
+15:05:29.850  RAW KEYUP vk=0x53 (S)
+15:05:41.507  RAW KEYDOWN vk=0x61 (a)
+15:05:41.523  RAW KEYDOWN vk=0x60 (`)
+15:05:41.659  RAW KEYUP vk=0x60 (`)
+15:05:41.698  RAW KEYUP vk=0x61 (a)
+15:05:41.786  RAW KEYDOWN vk=0x68 (h)
+15:05:41.890  RAW KEYUP vk=0x68 (h)
+15:05:46.618  RAW KEYDOWN vk=0x28 (()
+15:05:46.731  RAW KEYUP vk=0x28 (()
+15:05:47.050  RAW KEYDOWN vk=0x28 (()
+15:05:47.155  RAW KEYUP vk=0x28 (()
+15:05:47.514  RAW KEYDOWN vk=0x28 (()
+15:05:47.643  RAW KEYUP vk=0x28 (()
+15:05:52.931  RAW KEYDOWN vk=0x28 (()
+15:05:53.075  RAW KEYUP vk=0x28 (()
+15:05:53.363  RAW KEYDOWN vk=0x28 (()
+15:05:53.483  RAW KEYUP vk=0x28 (()
+15:06:19.276  RAW KEYDOWN vk=0x63 (c)
+15:06:19.404  RAW KEYUP vk=0x63 (c)
+15:06:19.501  RAW KEYDOWN vk=0x60 (`)
+15:06:19.621  RAW KEYUP vk=0x60 (`)
+15:06:19.716  RAW KEYDOWN vk=0x60 (`)
+15:06:19.828  RAW KEYUP vk=0x60 (`)
+15:06:54.648  RAW KEYDOWN vk=0x63 (c)
+15:06:54.759  RAW KEYDOWN vk=0x65 (e)
+15:06:54.808  RAW KEYUP vk=0x63 (c)
+15:06:54.872  RAW KEYDOWN vk=0x60 (`)
+15:06:54.920  RAW KEYUP vk=0x65 (e)
+15:06:55.000  RAW KEYUP vk=0x60 (`)
+15:06:57.727  RAW KEYDOWN vk=0x63 (c)
+15:06:57.824  RAW KEYUP vk=0x63 (c)
+15:06:57.984  RAW KEYDOWN vk=0x66 (f)
+15:06:58.072  RAW KEYUP vk=0x66 (f)
+15:06:58.199  RAW KEYDOWN vk=0x60 (`)
+15:06:58.319  RAW KEYUP vk=0x60 (`)
+15:07:42.179  RAW KEYDOWN vk=0x63 (c)
+15:07:42.258  RAW KEYUP vk=0x63 (c)
+15:07:42.475  RAW KEYDOWN vk=0x67 (g)
+15:07:42.579  RAW KEYDOWN vk=0x60 (`)
+15:07:42.611  RAW KEYUP vk=0x67 (g)
+15:07:42.691  RAW KEYUP vk=0x60 (`)
+15:07:52.499  RAW KEYDOWN vk=0x28 (()
+15:07:52.667  RAW KEYUP vk=0x28 (()
+15:07:53.940  RAW KEYDOWN vk=0x28 (()
+15:07:54.067  RAW KEYUP vk=0x28 (()
+15:07:55.123  RAW KEYDOWN vk=0x28 (()
+15:07:55.276  RAW KEYUP vk=0x28 (()
+15:08:12.029  RAW KEYDOWN vk=0x64 (d)
+15:08:12.125  RAW KEYDOWN vk=0x66 (f)
+15:08:12.237  RAW KEYDOWN vk=0x60 (`)
+15:08:12.293  RAW KEYUP vk=0x66 (f)
+15:08:12.301  RAW KEYUP vk=0x64 (d)
+15:08:12.397  RAW KEYUP vk=0x60 (`)
+15:08:15.989  RAW KEYDOWN vk=0x64 (d)
+15:08:16.094  RAW KEYDOWN vk=0x68 (h)
+15:08:16.205  RAW KEYDOWN vk=0x60 (`)
+15:08:16.229  RAW KEYUP vk=0x64 (d)
+15:08:16.237  RAW KEYUP vk=0x68 (h)
+15:08:16.357  RAW KEYUP vk=0x60 (`)
+15:08:24.717  RAW KEYDOWN vk=0xA2
+15:08:24.942  RAW KEYDOWN vk=0x53 (S)
+15:08:24.942  Accum: key='s' buf=[ss] len=2
+15:08:25.142  RAW KEYUP vk=0x53 (S)
+15:08:25.149  RAW KEYUP vk=0xA2
+15:08:51.151  RAW KEYDOWN vk=0xA2
+15:08:51.583  RAW KEYDOWN vk=0x53 (S)
+15:08:51.584  Accum: key='s' buf=[sss] len=3
+15:08:51.704  RAW KEYUP vk=0x53 (S)
+15:08:51.735  RAW KEYUP vk=0xA2
+15:18:09.799  RAW KEYDOWN vk=0x63 (c)
+15:18:09.911  RAW KEYUP vk=0x63 (c)
+15:18:10.151  RAW KEYDOWN vk=0x67 (g)
+15:18:10.223  RAW KEYUP vk=0x67 (g)
+15:18:10.391  RAW KEYDOWN vk=0x60 (`)
+15:18:10.487  RAW KEYUP vk=0x60 (`)
+15:18:27.696  RAW KEYDOWN vk=0x66 (f)
+15:18:27.785  RAW KEYUP vk=0x66 (f)
+15:18:27.936  RAW KEYDOWN vk=0x68 (h)
+15:18:28.048  RAW KEYDOWN vk=0x60 (`)
+15:18:28.080  RAW KEYUP vk=0x68 (h)
+15:18:28.152  RAW KEYUP vk=0x60 (`)
+15:18:41.874  RAW KEYDOWN vk=0x61 (a)
+15:18:41.969  RAW KEYDOWN vk=0x60 (`)
+15:18:42.025  RAW KEYUP vk=0x61 (a)
+15:18:42.081  RAW KEYUP vk=0x60 (`)
+15:19:14.835  RAW KEYDOWN vk=0x54 (T)
+15:19:14  FocusChange: buffer cleared, trackedRu=False
+15:19:14.836  Accum: key='t' buf=[t] len=1
+15:19:14.947  RAW KEYUP vk=0x54 (T)
+15:19:15.019  RAW KEYDOWN vk=0x48 (H)
+15:19:15.020  Accum: key='h' buf=[th] len=2
+15:19:15.188  RAW KEYUP vk=0x48 (H)
+15:19:15.204  RAW KEYDOWN vk=0x49 (I)
+15:19:15.204  Accum: key='i' buf=[thi] len=3
+15:19:15.348  RAW KEYUP vk=0x49 (I)
+15:19:15.468  RAW KEYDOWN vk=0x53 (S)
+15:19:15.468  Accum: key='s' buf=[this] len=4
+15:19:15.596  RAW KEYUP vk=0x53 (S)
+15:19:15.636  RAW KEYDOWN vk=0x20 ( )
+15:19:15  Dict: [this] real in en вЂ” no convert
+15:19:15.804  RAW KEYUP vk=0x20 ( )
+15:19:16.555  RAW KEYDOWN vk=0x57 (W)
+15:19:16.556  Accum: key='w' buf=[w] len=1
+15:19:16.644  RAW KEYUP vk=0x57 (W)
+15:19:16.739  RAW KEYDOWN vk=0x49 (I)
+15:19:16.740  Accum: key='i' buf=[wi] len=2
+15:19:16.844  RAW KEYUP vk=0x49 (I)
+15:19:17.059  RAW KEYDOWN vk=0x4C (L)
+15:19:17.060  Accum: key='l' buf=[wil] len=3
+15:19:17.124  RAW KEYUP vk=0x4C (L)
+15:19:17.252  RAW KEYDOWN vk=0x4C (L)
+15:19:17.253  Accum: key='l' buf=[will] len=4
+15:19:17.348  RAW KEYDOWN vk=0x20 ( )
+15:19:17  Dict: [will] real in en вЂ” no convert
+15:19:17.364  RAW KEYUP vk=0x4C (L)
+15:19:17.475  RAW KEYUP vk=0x20 ( )
+15:19:17.596  RAW KEYDOWN vk=0x4E (N)
+15:19:17.597  Accum: key='n' buf=[n] len=1
+15:19:17.707  RAW KEYUP vk=0x4E (N)
+15:19:17.884  RAW KEYDOWN vk=0x4F (O)
+15:19:17.885  Accum: key='o' buf=[no] len=2
+15:19:17.996  RAW KEYUP vk=0x4F (O)
+15:19:18.219  RAW KEYDOWN vk=0x54 (T)
+15:19:18.221  Accum: key='t' buf=[not] len=3
+15:19:18.307  RAW KEYUP vk=0x54 (T)
+15:19:18.347  RAW KEYDOWN vk=0x20 ( )
+15:19:18.500  RAW KEYUP vk=0x20 ( )
+15:19:19.819  RAW KEYDOWN vk=0x42 (B)
+15:19:19.820  Accum: key='b' buf=[b] len=1
+15:19:19.899  RAW KEYDOWN vk=0x45 (E)
+15:19:19.901  Accum: key='e' buf=[be] len=2
+15:19:19.956  RAW KEYUP vk=0x42 (B)
+15:19:20.052  RAW KEYDOWN vk=0x20 ( )
+15:19:20  Dict: [be] both real (src=2147483647 dst=2147483647) вЂ” no convert
+15:19:20.060  RAW KEYUP vk=0x45 (E)
+15:19:20.188  RAW KEYUP vk=0x20 ( )
+15:19:20.468  RAW KEYDOWN vk=0x41 (A)
+15:19:20.469  Accum: key='a' buf=[a] len=1
+15:19:20.588  RAW KEYDOWN vk=0x20 ( )
+15:19:20.604  RAW KEYUP vk=0x41 (A)
+15:19:20.716  RAW KEYUP vk=0x20 ( )
+15:19:21.180  RAW KEYDOWN vk=0x08
+15:19:21.299  RAW KEYUP vk=0x08
+15:19:21.540  RAW KEYDOWN vk=0x4E (N)
+15:19:21.541  Accum: key='n' buf=[n] len=1
+15:19:21.612  RAW KEYDOWN vk=0x20 ( )
+15:19:21.684  RAW KEYUP vk=0x4E (N)
+15:19:21.723  RAW KEYUP vk=0x20 ( )
+15:19:21.900  RAW KEYDOWN vk=0x49 (I)
+15:19:21.902  Accum: key='i' buf=[i] len=1
+15:19:21.988  RAW KEYUP vk=0x49 (I)
+15:19:22.204  RAW KEYDOWN vk=0x53 (S)
+15:19:22.205  Accum: key='s' buf=[is] len=2
+15:19:22.260  RAW KEYUP vk=0x53 (S)
+15:19:22.364  RAW KEYDOWN vk=0x53 (S)
+15:19:22.365  Accum: key='s' buf=[iss] len=3
+15:19:22.468  RAW KEYUP vk=0x53 (S)
+15:19:22.620  RAW KEYDOWN vk=0x55 (U)
+15:19:22.620  Accum: key='u' buf=[issu] len=4
+15:19:22.748  RAW KEYUP vk=0x55 (U)
+15:19:22.980  RAW KEYDOWN vk=0x45 (E)
+15:19:22.981  Accum: key='e' buf=[issue] len=5
+15:19:23.092  RAW KEYUP vk=0x45 (E)
+15:19:23.252  RAW KEYDOWN vk=0x20 ( )
+15:19:23  Dict: [issue] real in en вЂ” no convert
+15:19:23.420  RAW KEYUP vk=0x20 ( )
+15:19:24.324  RAW KEYDOWN vk=0x53 (S)
+15:19:24.325  Accum: key='s' buf=[s] len=1
+15:19:24.436  RAW KEYUP vk=0x53 (S)
+15:19:24.532  RAW KEYDOWN vk=0x49 (I)
+15:19:24.533  Accum: key='i' buf=[si] len=2
+15:19:24.628  RAW KEYUP vk=0x49 (I)
+15:19:24.940  RAW KEYDOWN vk=0x4E (N)
+15:19:24.940  Accum: key='n' buf=[sin] len=3
+15:19:25.052  RAW KEYUP vk=0x4E (N)
+15:19:25.124  RAW KEYDOWN vk=0x43 (C)
+15:19:25.125  Accum: key='c' buf=[sinc] len=4
+15:19:25.236  RAW KEYUP vk=0x43 (C)
+15:19:25.436  RAW KEYDOWN vk=0x45 (E)
+15:19:25.438  Accum: key='e' buf=[since] len=5
+15:19:25.548  RAW KEYUP vk=0x45 (E)
+15:19:25.572  RAW KEYDOWN vk=0x20 ( )
+15:19:25  Dict: [since] real in en вЂ” no convert
+15:19:25.724  RAW KEYUP vk=0x20 ( )
+15:19:26.517  RAW KEYDOWN vk=0x43 (C)
+15:19:26.518  Accum: key='c' buf=[c] len=1
+15:19:26.613  RAW KEYUP vk=0x43 (C)
+15:19:26.740  RAW KEYDOWN vk=0x4F (O)
+15:19:26.741  Accum: key='o' buf=[co] len=2
+15:19:26.812  RAW KEYUP vk=0x4F (O)
+15:19:26.988  RAW KEYDOWN vk=0x4D (M)
+15:19:26.989  Accum: key='m' buf=[com] len=3
+15:19:27.068  RAW KEYUP vk=0x4D (M)
+15:19:27.092  RAW KEYDOWN vk=0x41 (A)
+15:19:27.093  Accum: key='a' buf=[coma] len=4
+15:19:27.213  RAW KEYUP vk=0x41 (A)
+15:19:27.220  RAW KEYDOWN vk=0x20 ( )
+15:19:27  Dict: [coma] real in en вЂ” no convert
+15:19:27.333  RAW KEYUP vk=0x20 ( )
+15:19:27.724  RAW KEYDOWN vk=0x41 (A)
+15:19:27.725  Accum: key='a' buf=[a] len=1
+15:19:27.861  RAW KEYUP vk=0x41 (A)
+15:19:27.925  RAW KEYDOWN vk=0x4C (L)
+15:19:27.926  Accum: key='l' buf=[al] len=2
+15:19:28.060  RAW KEYUP vk=0x4C (L)
+15:19:28.141  RAW KEYDOWN vk=0x53 (S)
+15:19:28.141  Accum: key='s' buf=[als] len=3
+15:19:28.245  RAW KEYDOWN vk=0x4F (O)
+15:19:28.245  Accum: key='o' buf=[also] len=4
+15:19:28.253  RAW KEYUP vk=0x53 (S)
+15:19:28.340  RAW KEYDOWN vk=0x20 ( )
+15:19:28  Dict: [also] real in en вЂ” no convert
+15:19:28.380  RAW KEYUP vk=0x4F (O)
+15:19:28.453  RAW KEYUP vk=0x20 ( )
+15:19:29.388  RAW KEYDOWN vk=0x57 (W)
+15:19:29.389  Accum: key='w' buf=[w] len=1
+15:19:29.484  RAW KEYUP vk=0x57 (W)
+15:19:29.828  RAW KEYDOWN vk=0x4F (O)
+15:19:29.829  Accum: key='o' buf=[wo] len=2
+15:19:29.948  RAW KEYUP vk=0x4F (O)
+15:19:30.013  RAW KEYDOWN vk=0x52 (R)
+15:19:30.014  Accum: key='r' buf=[wor] len=3
+15:19:30.085  RAW KEYUP vk=0x52 (R)
+15:19:30.268  RAW KEYDOWN vk=0x4B (K)
+15:19:30.269  Accum: key='k' buf=[work] len=4
+15:19:30.381  RAW KEYUP vk=0x4B (K)
+15:19:30.508  RAW KEYDOWN vk=0x49 (I)
+15:19:30.509  Accum: key='i' buf=[worki] len=5
+15:19:30.604  RAW KEYUP vk=0x49 (I)
+15:19:30.893  RAW KEYDOWN vk=0x4E (N)
+15:19:30.894  Accum: key='n' buf=[workin] len=6
+15:19:30.997  RAW KEYUP vk=0x4E (N)
+15:19:31.076  RAW KEYDOWN vk=0x47 (G)
+15:19:31.077  Accum: key='g' buf=[working] len=7
+15:19:31.140  RAW KEYDOWN vk=0x20 ( )
+15:19:31  Dict: [working] real in en вЂ” no convert
+15:19:31.180  RAW KEYUP vk=0x47 (G)
+15:19:31.268  RAW KEYUP vk=0x20 ( )
+15:19:31.517  RAW KEYDOWN vk=0x41 (A)
+15:19:31.518  Accum: key='a' buf=[a] len=1
+15:19:31.613  RAW KEYUP vk=0x41 (A)
+15:19:31.733  RAW KEYDOWN vk=0x53 (S)
+15:19:31.734  Accum: key='s' buf=[as] len=2
+15:19:31.836  RAW KEYUP vk=0x53 (S)
+15:19:31.844  RAW KEYDOWN vk=0x20 ( )
+15:19:31  Dict: [as] real in en вЂ” no convert
+15:19:31.981  RAW KEYUP vk=0x20 ( )
+15:19:32.933  RAW KEYDOWN vk=0x45 (E)
+15:19:32.934  Accum: key='e' buf=[e] len=1
+15:19:33.061  RAW KEYUP vk=0x45 (E)
+15:19:33.109  RAW KEYDOWN vk=0x4E (N)
+15:19:33.110  Accum: key='n' buf=[en] len=2
+15:19:33.237  RAW KEYUP vk=0x4E (N)
+15:19:33.357  RAW KEYDOWN vk=0x44 (D)
+15:19:33.358  Accum: key='d' buf=[end] len=3
+15:19:33.453  RAW KEYUP vk=0x44 (D)
+15:19:33.461  RAW KEYDOWN vk=0x20 ( )
+15:19:33  Dict: [end] both real (src=2147483647 dst=2147483647) вЂ” no convert
+15:19:33.597  RAW KEYUP vk=0x20 ( )
+15:19:33.949  RAW KEYDOWN vk=0x4F (O)
+15:19:33.950  Accum: key='o' buf=[o] len=1
+15:19:34.045  RAW KEYUP vk=0x4F (O)
+15:19:34.205  RAW KEYDOWN vk=0x46 (F)
+15:19:34.206  Accum: key='f' buf=[of] len=2
+15:19:34.325  RAW KEYUP vk=0x46 (F)
+15:19:34.389  RAW KEYDOWN vk=0x20 ( )
+15:19:34  Dict: [of] both real (src=2147483647 dst=2147483647) вЂ” no convert
+15:19:34.557  RAW KEYUP vk=0x20 ( )
+15:19:35.525  RAW KEYDOWN vk=0x54 (T)
+15:19:35.527  Accum: key='t' buf=[t] len=1
+15:19:35.637  RAW KEYUP vk=0x54 (T)
+15:19:36.133  RAW KEYDOWN vk=0x48 (H)
+15:19:36.135  Accum: key='h' buf=[th] len=2
+15:19:36.237  RAW KEYUP vk=0x48 (H)
+15:19:36.293  RAW KEYDOWN vk=0x45 (E)
+15:19:36.294  Accum: key='e' buf=[the] len=3
+15:19:36.373  RAW KEYDOWN vk=0x20 ( )
+15:19:36.398  RAW KEYUP vk=0x45 (E)
+15:19:36.493  RAW KEYUP vk=0x20 ( )
+15:19:36.669  RAW KEYDOWN vk=0x57 (W)
+15:19:36.670  Accum: key='w' buf=[w] len=1
+15:19:36.749  RAW KEYUP vk=0x57 (W)
+15:19:36.997  RAW KEYDOWN vk=0x4F (O)
+15:19:36.998  Accum: key='o' buf=[wo] len=2
+15:19:37.093  RAW KEYUP vk=0x4F (O)
+15:19:37.237  RAW KEYDOWN vk=0x52 (R)
+15:19:37.238  Accum: key='r' buf=[wor] len=3
+15:19:37.317  RAW KEYUP vk=0x52 (R)
+15:19:37.485  RAW KEYDOWN vk=0x44 (D)
+15:19:37.486  Accum: key='d' buf=[word] len=4
+15:19:37.589  RAW KEYUP vk=0x44 (D)
+15:19:37.677  RAW KEYDOWN vk=0x20 ( )
+15:19:37  Dict: [word] real in en вЂ” no convert
+15:19:37.806  RAW KEYUP vk=0x20 ( )
+15:19:38.261  RAW KEYDOWN vk=0xBB
+15:19:38.365  RAW KEYUP vk=0xBB
+15:19:38.446  RAW KEYDOWN vk=0x20 ( )
+15:19:38.541  RAW KEYUP vk=0x20 ( )
+15:19:40.493  RAW KEYDOWN vk=0x53 (S)
+15:19:40.493  Accum: key='s' buf=[s] len=1
+15:19:40.597  RAW KEYUP vk=0x53 (S)
+15:19:40.749  RAW KEYDOWN vk=0x50 (P)
+15:19:40.750  Accum: key='p' buf=[sp] len=2
+15:19:40.877  RAW KEYUP vk=0x50 (P)
+15:19:40.879  RAW KEYDOWN vk=0x41 (A)
+15:19:40.880  Accum: key='a' buf=[spa] len=3
+15:19:40.981  RAW KEYUP vk=0x41 (A)
+15:19:41.278  RAW KEYDOWN vk=0x43 (C)
+15:19:41.278  Accum: key='c' buf=[spac] len=4
+15:19:41.365  RAW KEYUP vk=0x43 (C)
+15:19:41.541  RAW KEYDOWN vk=0x45 (E)
+15:19:41.541  Accum: key='e' buf=[space] len=5
+15:19:41.622  RAW KEYUP vk=0x45 (E)
+15:19:41.653  RAW KEYDOWN vk=0x20 ( )
+15:19:41  Dict: [space] real in en вЂ” no convert
+15:19:41.805  RAW KEYUP vk=0x20 ( )
+15:19:42.517  RAW KEYDOWN vk=0x4F (O)
+15:19:42.518  Accum: key='o' buf=[o] len=1
+15:19:42.638  RAW KEYUP vk=0x4F (O)
+15:19:42.838  RAW KEYDOWN vk=0x52 (R)
+15:19:42.839  Accum: key='r' buf=[or] len=2
+15:19:42.925  RAW KEYUP vk=0x52 (R)
+15:19:42.989  RAW KEYDOWN vk=0x20 ( )
+15:19:42  Dict: [or] real in en вЂ” no convert
+15:19:43.125  RAW KEYUP vk=0x20 ( )
+15:19:44.749  RAW KEYDOWN vk=0x45 (E)
+15:19:44.751  Accum: key='e' buf=[e] len=1
+15:19:44.885  RAW KEYUP vk=0x45 (E)
+15:19:44.910  RAW KEYDOWN vk=0x4E (N)
+15:19:44.911  Accum: key='n' buf=[en] len=2
+15:19:45.022  RAW KEYUP vk=0x4E (N)
+15:19:45.334  RAW KEYDOWN vk=0x54 (T)
+15:19:45.335  Accum: key='t' buf=[ent] len=3
+15:19:45.413  RAW KEYUP vk=0x54 (T)
+15:19:45.558  RAW KEYDOWN vk=0x45 (E)
+15:19:45.558  Accum: key='e' buf=[ente] len=4
+15:19:45.622  RAW KEYUP vk=0x45 (E)
+15:19:45.742  RAW KEYDOWN vk=0x52 (R)
+15:19:45.743  Accum: key='r' buf=[enter] len=5
+15:19:45.838  RAW KEYUP vk=0x52 (R)
+15:19:46.518  RAW KEYDOWN vk=0x0D
+15:19:46  Dict: [enter] real in en вЂ” no convert
+15:19:46.637  RAW KEYUP vk=0x0D
+15:20:07.735  RAW KEYDOWN vk=0x63 (c)
+15:20:07  FocusChange: buffer cleared, trackedRu=False
+15:20:07.832  RAW KEYUP vk=0x63 (c)
+15:20:07.984  RAW KEYDOWN vk=0x60 (`)
+15:20:08.095  RAW KEYUP vk=0x60 (`)
+15:20:08.192  RAW KEYDOWN vk=0x60 (`)
+15:20:08.296  RAW KEYUP vk=0x60 (`)
+15:20:11.944  RAW KEYDOWN vk=0x62 (b)
+15:20:12.031  RAW KEYUP vk=0x62 (b)
+15:20:12.192  RAW KEYDOWN vk=0x68 (h)
+15:20:12.328  RAW KEYDOWN vk=0x60 (`)
+15:20:12.352  RAW KEYUP vk=0x68 (h)
+15:20:12.439  RAW KEYUP vk=0x60 (`)
+15:20:17.424  RAW KEYDOWN vk=0xA2
+15:20:17.560  RAW KEYDOWN vk=0x53 (S)
+15:20:17.561  Accum: key='s' buf=[s] len=1
+15:20:17.648  RAW KEYUP vk=0xA2
+15:20:17.664  RAW KEYUP vk=0x53 (S)
+15:20:43.409  RAW KEYDOWN vk=0x62 (b)
+15:20:43.554  RAW KEYUP vk=0x62 (b)
+15:20:44.274  RAW KEYDOWN vk=0x63 (c)
+15:20:44.450  RAW KEYUP vk=0x63 (c)
+15:20:44.546  RAW KEYDOWN vk=0x60 (`)
+15:20:44.722  RAW KEYUP vk=0x60 (`)
+15:20:47.050  RAW KEYDOWN vk=0x62 (b)
+15:20:47.081  RAW KEYUP vk=0x62 (b)
+15:20:47.194  RAW KEYDOWN vk=0x62 (b)
+15:20:47.274  RAW KEYUP vk=0x62 (b)
+15:20:47.346  RAW KEYDOWN vk=0x60 (`)
+15:20:47.482  RAW KEYUP vk=0x60 (`)
+15:21:02.675  RAW KEYDOWN vk=0x68 (h)
+15:21:02.772  RAW KEYUP vk=0x68 (h)
+15:21:05.939  RAW KEYDOWN vk=0x26 (&)
+15:21:06.036  RAW KEYUP vk=0x26 (&)
+15:21:06.412  RAW KEYDOWN vk=0x26 (&)
+15:21:06.492  RAW KEYUP vk=0x26 (&)
+15:21:06.771  RAW KEYDOWN vk=0x26 (&)
+15:21:06.891  RAW KEYUP vk=0x26 (&)
+15:21:07.700  RAW KEYDOWN vk=0x26 (&)
+15:21:07.796  RAW KEYUP vk=0x26 (&)
+15:21:19.916  RAW KEYDOWN vk=0x63 (c)
+15:21:20.004  RAW KEYUP vk=0x63 (c)
+15:21:20.141  RAW KEYDOWN vk=0x66 (f)
+15:21:20.276  RAW KEYUP vk=0x66 (f)
+15:21:20.300  RAW KEYDOWN vk=0x60 (`)
+15:21:20.420  RAW KEYUP vk=0x60 (`)
+15:21:28.636  RAW KEYDOWN vk=0x20 ( )
+15:21:28.789  RAW KEYUP vk=0x20 ( )
+15:21:28.845  RAW KEYDOWN vk=0xA1
+15:21:29.037  RAW KEYDOWN vk=0x54 (T)
+15:21:29.038  Accum: key='T' buf=[T] len=1
+15:21:29.205  RAW KEYUP vk=0x54 (T)
+15:21:29.317  RAW KEYDOWN vk=0x4E (N)
+15:21:29.318  Accum: key='N' buf=[TN] len=2
+15:21:29.413  RAW KEYUP vk=0x4E (N)
+15:21:29.533  RAW KEYUP vk=0xA1
+15:21:37.806  RAW KEYDOWN vk=0x20 ( )
+15:21:37  Dict: [TN] both real (src=2147483647 dst=2147483647) вЂ” no convert
+15:21:37.965  RAW KEYUP vk=0x20 ( )
+15:21:38.110  RAW KEYDOWN vk=0xA1
+15:21:38.611  RAW KEYDOWN vk=0xA1
+15:21:38.656  RAW KEYDOWN vk=0xA1
+15:21:38.688  RAW KEYDOWN vk=0xA1
+15:21:38.717  RAW KEYDOWN vk=0xA1
+15:21:38.750  RAW KEYDOWN vk=0xA1
+15:21:38.780  RAW KEYDOWN vk=0xA1
+15:21:38.811  RAW KEYDOWN vk=0xA1
+15:21:38.842  RAW KEYDOWN vk=0xA1
+15:21:38.853  RAW KEYDOWN vk=0x54 (T)
+15:21:38.854  Accum: key='T' buf=[T] len=1
+15:21:38.903  RAW KEYDOWN vk=0x4E (N)
+15:21:38.905  Accum: key='N' buf=[TN] len=2
+15:21:38.949  RAW KEYUP vk=0x54 (T)
+15:21:38.990  RAW KEYUP vk=0x4E (N)
+15:21:39.045  RAW KEYUP vk=0xA1
+15:21:43.758  RAW KEYDOWN vk=0x26 (&)
+15:21:43.886  RAW KEYUP vk=0x26 (&)
+15:21:44.006  RAW KEYDOWN vk=0x26 (&)
+15:21:44.158  RAW KEYUP vk=0x26 (&)
+15:21:44.742  RAW KEYDOWN vk=0x26 (&)
+15:21:44.862  RAW KEYUP vk=0x26 (&)
+15:21:46.262  RAW KEYDOWN vk=0xA2
+15:21:46.358  RAW KEYDOWN vk=0x53 (S)
+15:21:46.359  Accum: key='s' buf=[TNs] len=3
+15:21:46.462  RAW KEYUP vk=0xA2
+15:21:46.470  RAW KEYUP vk=0x53 (S)
+15:21:47.567  RAW KEYDOWN vk=0x26 (&)
+15:21:47.694  RAW KEYUP vk=0x26 (&)
+15:21:48.790  RAW KEYDOWN vk=0x26 (&)
+15:21:48.926  RAW KEYUP vk=0x26 (&)
+15:21:50.287  RAW KEYDOWN vk=0x26 (&)
+15:21:50.438  RAW KEYUP vk=0x26 (&)
+15:21:53.311  RAW KEYDOWN vk=0x28 (()
+15:21:53.479  RAW KEYUP vk=0x28 (()
+15:22:00.695  RAW KEYDOWN vk=0x63 (c)
+15:22:00.784  RAW KEYUP vk=0x63 (c)
+15:22:00.952  RAW KEYDOWN vk=0x61 (a)
+15:22:01.064  RAW KEYUP vk=0x61 (a)
+15:22:01.415  RAW KEYDOWN vk=0x60 (`)
+15:22:01.536  RAW KEYUP vk=0x60 (`)
+15:22:08.040  RAW KEYDOWN vk=0x64 (d)
+15:22:08.144  RAW KEYUP vk=0x64 (d)
+15:22:08.288  RAW KEYDOWN vk=0x62 (b)
+15:22:08.392  RAW KEYDOWN vk=0x60 (`)
+15:22:08.455  RAW KEYUP vk=0x62 (b)
+15:22:08.544  RAW KEYUP vk=0x60 (`)
+15:23:04.139  RAW KEYDOWN vk=0x62 (b)
+15:23:04.243  RAW KEYUP vk=0x62 (b)
+15:23:04.348  RAW KEYDOWN vk=0x60 (`)
+15:23:04.459  RAW KEYUP vk=0x60 (`)
+15:23:04.540  RAW KEYDOWN vk=0x60 (`)
+15:23:04.660  RAW KEYUP vk=0x60 (`)
+15:23:07.180  RAW KEYDOWN vk=0x62 (b)
+15:23:07.275  RAW KEYUP vk=0x62 (b)
+15:23:07.411  RAW KEYDOWN vk=0x64 (d)
+15:23:07.531  RAW KEYUP vk=0x64 (d)
+15:23:07.556  RAW KEYDOWN vk=0x60 (`)
+15:23:07.668  RAW KEYUP vk=0x60 (`)
+15:23:15.237  RAW KEYDOWN vk=0x62 (b)
+15:23:15.340  RAW KEYDOWN vk=0x60 (`)
+15:23:15.445  RAW KEYUP vk=0x62 (b)
+15:23:15.492  RAW KEYUP vk=0x60 (`)
+15:23:19.957  RAW KEYDOWN vk=0x61 (a)
+15:23:20.086  RAW KEYUP vk=0x61 (a)
+15:23:20.253  RAW KEYDOWN vk=0x68 (h)
+15:23:20.413  RAW KEYUP vk=0x68 (h)
+15:23:23.517  RAW KEYDOWN vk=0x28 (()
+15:23:23.637  RAW KEYUP vk=0x28 (()
+15:23:34.262  RAW KEYDOWN vk=0x66 (f)
+15:23:34.414  RAW KEYUP vk=0x66 (f)
+15:23:34.525  RAW KEYDOWN vk=0x60 (`)
+15:23:34.718  RAW KEYUP vk=0x60 (`)
+15:23:47.287  RAW KEYDOWN vk=0x66 (f)
+15:23:47.414  RAW KEYUP vk=0x66 (f)
+15:23:47.598  RAW KEYDOWN vk=0x64 (d)
+15:23:47.710  RAW KEYUP vk=0x64 (d)
+15:23:49.919  RAW KEYDOWN vk=0xA2
+15:23:50.094  RAW KEYDOWN vk=0x53 (S)
+15:23:50.095  Accum: key='s' buf=[TNss] len=4
+15:23:50.183  RAW KEYUP vk=0xA2
+15:23:50.199  RAW KEYUP vk=0x53 (S)
+15:24:08.993  RAW KEYDOWN vk=0x28 (()
+15:24:09.120  RAW KEYUP vk=0x28 (()
+15:24:16.865  RAW KEYDOWN vk=0x28 (()
+15:24:16.977  RAW KEYUP vk=0x28 (()
+15:24:21.289  RAW KEYDOWN vk=0xA2
+15:24:21.425  RAW KEYDOWN vk=0x53 (S)
+15:24:21.426  Accum: key='s' buf=[TNsss] len=5
+15:24:21.537  RAW KEYUP vk=0xA2
+15:24:21.554  RAW KEYUP vk=0x53 (S)
+15:26:05.041  RAW KEYDOWN vk=0x2E (.)
+15:26:05  FocusChange: buffer cleared, trackedRu=False
+15:26:05.160  RAW KEYUP vk=0x2E (.)
+15:26:29.874  RAW KEYDOWN vk=0x4D (M)
+15:26:29  FocusChange: buffer cleared, trackedRu=False
+15:26:29.876  Accum: key='m' buf=[m] len=1
+15:26:29.962  RAW KEYUP vk=0x4D (M)
+15:26:30.194  RAW KEYDOWN vk=0x59 (Y)
+15:26:30.196  Accum: key='y' buf=[my] len=2
+15:26:30.298  RAW KEYUP vk=0x59 (Y)
+15:26:30.562  RAW KEYDOWN vk=0x20 ( )
+15:26:30  Dict: [my] real in en вЂ” no convert
+15:26:30.698  RAW KEYUP vk=0x20 ( )
+15:26:31.011  RAW KEYDOWN vk=0x0D
+15:26:31.202  RAW KEYUP vk=0x0D
+15:27:09.342  RAW KEYDOWN vk=0x0D
+15:27:09.477  RAW KEYUP vk=0x0D
+15:28:56.684  RAW KEYDOWN vk=0x2E (.)
+15:28:56  FocusChange: buffer cleared, trackedRu=False
+15:28:56.789  RAW KEYUP vk=0x2E (.)
+15:37:46  Starting...
+15:37:47  Compiled OK.
+15:37:50  Dict: loaded EN=370105 RU=1525424 words in 3473ms
+15:37:59  FocusChange: buffer cleared, trackedRu=False
+15:38:05  Detect [githubgithub] s0=0.91 [пшергипшерги] s1=0.27
+15:38:05    no conversion
+15:40:04  FocusChange: buffer cleared, trackedRu=False
+15:40:41  FocusChange: buffer cleared, trackedRu=False
+15:42:16  FocusChange: buffer cleared, trackedRu=False
