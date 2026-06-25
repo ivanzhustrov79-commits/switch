@@ -1338,3 +1338,71 @@
 15:40:04  FocusChange: buffer cleared, trackedRu=False
 15:40:41  FocusChange: buffer cleared, trackedRu=False
 15:42:16  FocusChange: buffer cleared, trackedRu=False
+15:43:56  Starting...
+15:43:56  Compiled OK.
+15:44:01  FocusChange: buffer cleared, trackedRu=False
+15:44:01  Dict: loaded EN=370105 RU=1525424 words in 4980ms
+15:44:07  FocusChange: buffer cleared, trackedRu=False
+15:44:15  Detect [shell;startup] s0=0.75 [ырудджыефкегз] s1=0.33
+15:44:15    no conversion
+15:44:38  FocusChange: buffer cleared, trackedRu=False
+15:45:20  FocusChange: buffer cleared, trackedRu=False
+15:45:25  DetectLive: [Lj,hsq]->[Добрый] dead-end src, clean dst вЂ” CONVERT mid-word
+15:45:25  Dict: [Lj,hsq]->[Добрый] real in ru вЂ” CONVERT
+15:45:25  DoConvert [Lj,hsq]->[Добрый]
+15:45:25  Send 26/26 del=6 bnd=' '
+15:45:25  Done.
+15:45:28  Dict: [день] real in ru вЂ” no convert
+15:45:34  Dict: [акшутвы]->[friends] real in en вЂ” CONVERT
+15:45:34  DoConvert [акшутвы]->[friends]
+15:45:34  Send 30/30 del=7 bnd=''
+15:45:34  Done.
+15:45:59  FocusChange: buffer cleared, trackedRu=False
+15:58:38  FocusChange: buffer cleared, trackedRu=False
+15:58:57  FocusChange: buffer cleared, trackedRu=False
+15:59:15  FocusChange: buffer cleared, trackedRu=False
+16:00:22  Dict: [cmd] real in en вЂ” no convert
+16:00:25  FocusChange: buffer cleared, trackedRu=False
+16:00:26  Dict: [dir] real in en вЂ” no convert
+16:00:36  FocusChange: buffer cleared, trackedRu=False
+16:00:43  Dict: [would] real in en вЂ” no convert
+16:00:45  Dict: [like] real in en вЂ” no convert
+16:00:45  Dict: [to] both real (src=2147483647 dst=2147483647) вЂ” no convert
+16:00:47  Dict: [keep] real in en вЂ” no convert
+16:00:50  Dict: [only] real in en вЂ” no convert
+16:00:53  Dict: [certain] real in en вЂ” no convert
+16:00:56  Dict: [files] real in en вЂ” no convert
+16:00:57  Dict: [to] both real (src=2147483647 dst=2147483647) вЂ” no convert
+16:00:57  Dict: [be] both real (src=2147483647 dst=2147483647) вЂ” no convert
+16:01:01  Dict: [sync] real in en вЂ” no convert
+16:01:02  Dict: [with] real in en вЂ” no convert
+16:01:05  Detect [github] s0=1.00 [пшерги] s1=0.20
+16:01:05    no conversion
+16:01:07  Detect [repo] s0=1.00 [кузщ] s1=0.00
+16:01:07    s1=0 reject
+16:01:13  Dict: [how] real in en вЂ” no convert
+16:01:13  Dict: [to] both real (src=2147483647 dst=2147483647) вЂ” no convert
+16:01:19  Dict: [write] real in en вЂ” no convert
+16:01:33  Detect [.ignor] s0=0.40 [юшптщк] s1=0.20
+16:01:33    no conversion
+16:01:40  Dict: [would] real in en вЂ” no convert
+16:01:42  Detect [kee;] s0=0.67 [лууж] s1=0.33
+16:01:42    no conversion
+16:01:55  Dict: [all] real in en вЂ” no convert
+16:01:57  Dict: [except] real in en вЂ” no convert
+16:01:58  Dict: [for] real in en вЂ” no convert
+16:02:01  Dict: [log] real in en вЂ” no convert
+16:02:36  FocusChange: buffer cleared, trackedRu=False
+16:02:39  Detect [powershell] s0=1.00 [зщцукырудд] s1=0.44
+16:02:39    no conversion
+16:02:41  FocusChange: buffer cleared, trackedRu=False
+16:03:29  FocusChange: buffer cleared, trackedRu=False
+16:03:43  FocusChange: buffer cleared, trackedRu=False
+16:04:03  FocusChange: buffer cleared, trackedRu=False
+16:04:33  FocusChange: buffer cleared, trackedRu=False
+16:04:39  FocusChange: buffer cleared, trackedRu=False
+16:04:41  FocusChange: buffer cleared, trackedRu=False
+16:04:49  FocusChange: buffer cleared, trackedRu=False
+16:04:53  FocusChange: buffer cleared, trackedRu=False
+16:05:36  FocusChange: buffer cleared, trackedRu=False
+16:05:46  FocusChange: buffer cleared, trackedRu=False
